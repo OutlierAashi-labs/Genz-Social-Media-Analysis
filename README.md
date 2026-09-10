@@ -29,14 +29,15 @@ through exploratory data analysis and data visualization.
 
 ## ❓🤔 Questions Explored
 
- ❓ How much time does Gen Z spend on social media each day?
- ❓ Which social media platforms are most preferred by Gen Z users?
- ❓ What are the most common purposes of social media usage?
- ❓ Is daily social media usage associated with mental health?
- ❓ Is higher social media addiction associated with lower mental health scores?
- ❓ Is screen time before sleep associated with mental health?
-❓  Which variables show the strongest relationship with mental health?
-And many more questions explored through EDA and visualization.
+ -❓ How much time does Gen Z spend on social media each day?
+ -❓ Which social media platforms are most preferred by Gen Z users?
+ -❓ What are the most common purposes of social media usage?
+ -❓ Is daily social media usage associated with mental health?
+ -❓ Is higher social media addiction associated with lower mental health scores?
+ -❓ Is screen time before sleep associated with mental health?
+-❓  Which variables show the strongest relationship with mental health?
+
+##### And many more questions explored through EDA and visualization.
 ---
 
 ## 🔑 Key Findings
@@ -56,21 +57,21 @@ And many more questions explored through EDA and visualization.
 
 ## 🛠️ Tools & Technologies
 
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Matplotlib
-🎨 Seaborn
-📓 Jupyter Notebook
-📊 Kaggle
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+- 🎨 Seaborn
+- 📓 Jupyter Notebook
+- 📊 Kaggle
 
 ---
 
 
 ## 🚀 Future Scope
-📊 An interactive dashboard can be developed using Power BI
-📈 Advanced statistical analysis
-🤖 Predictive modeling.
+- 📊 An interactive dashboard can be developed using Power BI
+- 📈 Advanced statistical analysis
+- 🤖 Predictive modeling.
 
 ---
 
