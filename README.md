@@ -5,9 +5,12 @@ Exploring Gen Z social media habits, addiction, and mental well-being through da
 
 ### A Data-Driven Look at Digital Habits & Mental Well-being of Gen Z
 
-An exploratory data analysis project investigating social media
-usage patterns, addiction levels, and their relationship with
-mental well-being among Gen Z users.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green)
+
 
 ---
 
@@ -23,46 +26,16 @@ through exploratory data analysis and data visualization.
 
 ---
 
-## 🎯 Objectives
+## ❓🤔 Questions Explored
 
-- Analyze social media usage patterns among Gen Z
-- Explore the relationship between social media usage and
-  mental health
-- Examine addiction levels and their association with usage
-- Compare usage patterns across genders and countries
-- Identify important patterns using data visualization
-
----
-
-## 📊 Analysis Performed
-
-### 1. Data Understanding
-- Dataset structure
-- Data types
-- Missing values
-- Duplicate records
-- Numerical and categorical features
-
-### 2. Univariate Analysis
-- Distribution of numerical variables
-- Categorical variable frequencies
-
-### 3. Bivariate Analysis
-- Social media usage vs mental health
-- Gender vs primary platform
-- Country vs purpose of social media usage
-- Other relationships between variables
-
-### 4. Correlation Analysis
-- Correlation matrix
-- Relationship between numerical features
-
-### 5. Multivariate Analysis
-- Daily usage × mental health × addiction level
-- Addiction level × mental health × gender
-- Country × night usage × gender
-- Age × mental health × addiction level
-
+ ❓ How much time does Gen Z spend on social media each day?
+ ❓ Which social media platforms are most preferred by Gen Z users?
+ ❓ What are the most common purposes of social media usage?
+ ❓ Is daily social media usage associated with mental health?
+ ❓ Is higher social media addiction associated with lower mental health scores?
+ ❓ Is screen time before sleep associated with mental health?
+❓  Which variables show the strongest relationship with mental health?
+And many more questions explored through EDA and visualization.
 ---
 
 ## 🔑 Key Findings
@@ -75,64 +48,32 @@ through exploratory data analysis and data visualization.
   across the countries analyzed.
 - Instagram appears as the most commonly preferred primary
   platform in the dataset.
-- Night-time usage is common among users, although its
-  relationship with mental health is less consistent.
 
-> Note: These findings represent associations in the dataset
-> and do not establish causation.
+> Note: These findings represent associations in the dataset and do not establish causation.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Kaggle
+🐍 Python
+🐼 Pandas
+🔢 NumPy
+📊 Matplotlib
+🎨 Seaborn
+📓 Jupyter Notebook
+📊 Kaggle
 
 ---
 
-## 📈 Visualizations
-
-Some of the visualizations included in this project:
-
-- Distribution plots
-- Count plots
-- Box plots
-- Scatter plots
-- Heatmaps
-- Violin plots
-- Bar charts
-- Multivariate visualizations
-
----
 
 ## 🚀 Future Scope
-
-An interactive dashboard can be developed using Power BI
-to explore the findings dynamically.
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| `GenZ_Social_Media_EDA.ipynb` | Complete EDA notebook |
-| `data/` | Dataset (if redistribution is permitted) |
-| `images/` | Selected project visualizations |
-| `requirements.txt` | Python dependencies |
+📊 An interactive dashboard can be developed using Power BI
+📈 Advanced statistical analysis
+🤖 Predictive modeling.
 
 ---
 
-## 👩‍💻 Author
 
-Outlier
 
----
 
-⭐ If you found this project interesting, feel free to explore
-the notebook and its visualizations.
+
