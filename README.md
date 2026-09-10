@@ -10,7 +10,8 @@ Exploring Gen Z social media habits, addiction, and mental well-being through da
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green)
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Notebook-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF)
 
 ---
 
