@@ -1,7 +1,5 @@
-# Genz-Social-Media-Analysis
+# 📱 Inside The Scroll -- EDA + Visualization Analysis
 Exploring Gen Z social media habits, addiction, and mental well-being through data analysis and visualization.
-
-## 📱 Inside The Scroll -- EDA + Visualization Analysis
 
 ### A Data-Driven Look at Digital Habits & Mental Well-being of Gen Z
 
